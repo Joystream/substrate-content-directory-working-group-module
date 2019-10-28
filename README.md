@@ -1,2 +1,2 @@
-# substrate-content-directory-working-group-module
-A working group module for the Joystream content directory.
+# substrate-hiring-module
+Ahiring module for on-chain organisations.
